@@ -1,0 +1,2 @@
+Niestety osiągnąłem limit darmowego planu na flowchart i nie schemat nie jest dokończony, do następnych zadań
+użyję innego narzędzia, ale tego już nie chce mi się przerabiać, jako że jest prawie pełny.

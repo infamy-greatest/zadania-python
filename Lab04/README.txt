@@ -1,0 +1,2 @@
+Niestety, wcześniej gdy nie trzeba było wrzucać zadania na gitlab, gdy zrobiłem je na lekcji, usuwałem je od razu z komputera (mam zwyczaj nie zostawiania zbędnych plików na komputerze), dlatego
+zrobiłem ponownie jeszcze najtrudniejsze zadania z czwartych laboratriów, lecz nie cofałem się dalej. Za to rozszerzyłem zadanie nr 11 z laboratoriów piątych.

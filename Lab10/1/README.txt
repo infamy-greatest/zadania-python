@@ -1,0 +1,1 @@
+znam i używałem już modułu time, np. implementacje mam w zadaniu 11 w Lab05

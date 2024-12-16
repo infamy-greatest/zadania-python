@@ -1,0 +1,1 @@
+Znam te sposoby, będę z tego robić projekt.
